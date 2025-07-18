@@ -26,7 +26,7 @@ And if you are using Windows, it is recommended to run the project using powersh
 To get started with the project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://gitlab.com/[username]/cryptotrading
+git clone https://github.com/dantelabs-us/cryptotrading.git
 cd cryptotrading
 npm i
 npm start
